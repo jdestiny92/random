@@ -1,0 +1,53 @@
+<div class="tab-content">
+			   <div role="tabpanel" class="tab-pane tab-pane fade in active " id="construction"> 
+						<div class = "row">
+						  <div class = "col-md-6">
+						  <h2 class="constra_Heading">STONE PATIO</h2>
+						  </div>
+						</div>
+						
+						<div class = "row">
+							<div class = "col-md-12 gallarySpancing">
+								<?php include("tabs/construction.php"); ?>
+							</div>
+						</div>
+			  
+			   </div>
+			      
+				  <!-- Remodeling Pane-->
+	  
+			<div  role="tabpanel" class="tab-pane fade " id="remodeling"> 
+						
+						<div class = "row">
+							<div class = "col-md-12 ">
+								<?php include("tabs/remodeling/remodeling.php"); ?>
+									
+								
+							</div>
+						</div>
+			  
+			</div>
+			<!-- Painting Pane -->
+	      <div role="tabpanel" class="tab-pane fade" id="painting"> 
+						
+						<div class = "gallarySpancing">
+								<?php include("tabs/painting/painting.php"); ?>
+								
+						</div>
+									
+							
+			</div>
+	  
+	  <!-- CarpetFloring -->
+	  
+	  <!-- KitchenBath -->
+     <!-- Capentry-->
+      <!-- Carpet & Floring -->
+				  </div>
+				   
+				   
+			 </div>
+    </div>
+ 
+ </div>
+

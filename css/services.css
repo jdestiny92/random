@@ -1,0 +1,95 @@
+.paleCreme
+{
+    background-color: #E7E2C4;
+	    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+	
+	
+}
+.positioning
+{
+	padding-top: 94px;
+    padding-bottom: 94px;
+    position: relative;
+    margin-bottom: 0 !important;
+}
+.intro
+{
+	 background-color: #ece8ae !important;
+	 position: relative;
+	padding: 10px;
+	margin: 10px;
+	
+}
+.introText
+{   color: #5c543d;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: 700;
+	
+}
+
+.orgnaize
+{
+
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+
+}
+
+.listing
+{
+	background-color: #dcdacc;
+	
+	margin: 0;
+    padding: 0;
+}
+
+.firstBg
+{
+	background-color: #ece8ae !important;
+	margin: 0;
+    padding: 0;
+}
+.marginRow{
+   margin-bottom:0px !important; 
+   }
+   
+ .listPadding1
+ {
+	padding-left: 100px;
+ }
+ .listPadding2
+ {
+	 padding-left: 100px;
+ }
+ .listPadding3
+ {
+	 padding-left: 100px
+ }
+ .fluidDiv
+ {
+	 background-color: #dcdacc;
+	 padding-top: 60px !important;
+	 padding-left: 60px !important;
+    padding-bottom: 60px ;
+	
+    position: relative;
+    width: 100% !important;
+    margin: 0;
+    
+    
+ }
+ .iconColor
+ {
+	 color: #bb7400;
+ }
+ 
+ .wpb_wrapper
+ {
+	 margin-bottom: px;
+ }
+ 
+ul.default>li:before{
+color:#bb7400!important;
+}

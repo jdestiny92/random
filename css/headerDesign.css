@@ -1,0 +1,569 @@
+
+body
+{
+	
+	
+}
+.headerBox
+{
+    width:100%;
+	background: url(../resource/images/header_line.png) repeat-x 0px 0px;
+	 background-color: #a19b8f !important; 
+    height: 100%;
+    
+   
+	   
+    position: relative;
+    z-index: 7;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.5);
+        font-size: 22px;
+    font-weight: 400;
+    font-family: oswald;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: right;
+    padding-bottom: 3px;
+	 
+}
+
+.logoBox
+{
+	padding-top: 38px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+	float: left;
+	margin-left:65px;
+	margin-right:35px;
+	
+}
+.logoSpecs
+{
+	width: 280px;
+	height: 95px;
+	 max-width: 100%;
+    height: auto;
+	
+}
+.bunnerBox
+{
+	font-size: 40px;
+    font-weight: 400;
+    font-family: oswald;
+    line-height: 50px;
+    padding-top: 5px;
+    
+    
+	
+	color: #f2f2f2;
+    
+    padding-bottom: 2px;
+}
+
+.headerBox .bunnerBox .icon
+{
+	font-size: 52px;
+    font-weight: 400;
+    font-family: oswald;
+    float: left;
+    display: inline;
+    margin-left: 3px;
+    margin-right: 3px;
+	color: #f4eec3 !important;
+}
+
+
+
+.location {
+    /* color: #f2f2f2; */
+    font-size: 22px;
+    font-weight: 500;
+    padding-bottom: 2px;
+	text-align: left;
+	color: #f4eec3;
+	
+}
+
+
+
+.blue
+{
+	 border: 2px solid blue;
+}
+.green
+{
+	 border: 2px solid green;
+}.purple
+{
+	 border: 2px solid purple;
+}.red
+{
+	 border: 2px solid red;
+}.orange
+{
+	 border: 2px solid orange;
+}.yellow
+{
+	 border: 2px solid yellow;
+}
+
+.headerBox .bunnerBox .top-space 
+{
+	 padding-top: 30px;
+}
+
+.headerBox .bunnerBox .position
+{
+	 float: left;
+    
+    margin-left: 6px;
+    margin-right: 6px;
+    padding-top: 5px;
+	
+}
+
+.headerBox .bunnerBox ul {
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    display: block;
+    float: ;
+	    
+}
+
+.headerBox .bunnerBox  ul li {
+    padding: 0px;
+    margin: 0px 16px;
+    float: left;
+    display: inline-block;
+}
+
+.headerBox ul li, ol li
+ {
+    font-size: 14px;
+ }
+ 
+.headerBox li 
+ {
+    line-height: 18px;
+    
+}
+
+.time 
+{
+    /* color: #f2f2f2; */
+    font-size: 22px;
+    font-weight: 500;
+    padding-bottom: 2px;
+    text-align: left;
+    color: #f4eec3;
+}
+
+.toll-free-number {
+	color:#F4EEC3;
+	font-size:31px;
+   
+    font-weight: 400;
+    font-family: oswald;
+    line-height: 50px;
+    padding-top: 5px;
+	margin-top:15px;
+    border-left: 1px solid #ccc;
+    padding-left: 30px;
+}
+
+.headerBox .bunnerBox .address, .headerBox .bunnerBox .date
+{
+	font-weight: 600;
+    font-size: 18px;
+    font-family: open sans;
+}
+
+.headerBox .toll-free i {
+    font-size: 28px;
+    padding-right: 2px;
+}
+
+.headerBox .bunnerBox ul li:nth-last-child(2) {
+    margin-right: 2px;
+}
+
+	@media only screen and (max-width: 1266px)
+	{
+		.toll-free-number {
+    
+                  border-left: none;
+     
+      }
+		
+	}
+	
+
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) 
+{ 
+ .creamBackground {
+      background: transparent;
+}
+	.toll-free-number 
+	{
+		padding-left: 0px !important;
+		font-size: 20px;
+		margin-top: 5px;
+		margin-left: 31px;
+		padding-top:0px !important;
+	}
+	
+	.headerBox .bunnerBox
+		{
+			
+			 display: block;
+			 /* overflow: hidden; */
+			
+			margin-left:0px !important;
+			 
+		}
+   .headerBox .bunnerBox .position
+	{
+		float: none;
+	}
+	.headerBox .bunnerBox .address, .headerBox .bunnerBox .date
+	{
+		text-align:left;
+		font-size: 14px;
+		
+	}
+.headerBox	li{
+		
+	}
+	.position
+	{
+		
+	}
+	.headerBox .bunnerBox .icon
+	{
+		 margin-right: 10px;
+		 font-size: 40px;
+	}
+	.headerBox .bunnerBox .top-space 
+	{
+		padding-top: 5px;
+	}
+	
+	.headerBox .logoBox
+	{
+	
+	float:none;
+	text-align: center;
+	margin-left: 0px;
+	margin-right:0px;
+	}
+	.location
+	{
+		font-size: 18px;
+	}
+	.locationBox   
+	{
+		
+	   display:block;
+	}
+	.OfficeHrsBox
+	{
+       
+	   display:block;
+	   
+	}
+	.number
+	{
+		display:block;
+	}
+	 .time
+	 {
+		 font-size: 18px;
+	 }
+	
+}
+
+ 
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) 
+{ 
+
+	.logoBox
+		{
+			display: block;
+    margin-left: 25%;
+    margin-right: auto;	
+		}
+	.headerBox .bunnerBox .icon
+	{
+		 margin-left: 17px;
+		 font-size: 35px;
+	}
+   .headerBox .bunnerBox .address, .headerBox .bunnerBox .date
+	{
+		text-align:left;
+		font-size: 14px;
+		
+	}
+	.headerBox .bunnerBox .position 
+	{
+		margin-right: -20px;
+		
+	}
+	.toll-free-number 
+	{
+		padding-left: 0px !important;
+		font-size: 23px;
+		margin-top: 12px;
+		margin-left: 210px;
+		padding-top:0px !important;
+	}
+	.headerBox .bunnerBox .top-space 
+	{
+		padding-top: 19px;
+	}
+}
+
+	
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) { 
+				.logoBox
+		{
+			display: block;
+    
+    margin-right: auto;	
+		}
+	.headerBox .bunnerBox .icon
+	{
+		 margin-left: 48px;
+		 font-size: 39px;
+	}
+   .headerBox .bunnerBox .address, .headerBox .bunnerBox .date
+	{
+		text-align:left;
+		font-size: 18px;
+		
+	}
+	.headerBox .bunnerBox .position 
+	{
+		margin-right: -55px;
+		
+	}
+	.toll-free-number 
+	{
+		padding-left: 0px !important;
+		font-size: 24px;
+		font-size: 24px;
+		margin-top: 5px;
+		margin-left: 106px;
+		padding-top:0px !important;
+	}
+	.headerBox .bunnerBox .top-space 
+	{
+		padding-top: 15px;
+	}
+	.location {
+    
+    font-size: 18px;
+	}
+	.time
+	{
+		font-size: 18px;
+	}
+}
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 924px) and (max-width: 1233px) 
+{ 
+		.logoBox
+		{
+			display: block;
+    margin-left: 0px;
+    margin-right: auto;	
+		}
+	.headerBox .bunnerBox .icon
+	{
+		 margin-left: -3px;
+		 font-size: 36px;
+	}
+   .headerBox .bunnerBox .address, .headerBox .bunnerBox .date
+	{
+		text-align:left;
+		font-size: 18px;
+		
+	}
+	.headerBox .bunnerBox .position 
+	{
+		margin-right: 4px;
+		
+	}
+	
+	.headerBox .bunnerBox .top-space 
+	{
+		padding-top: 15px;
+	}
+	.location {
+     font-size: 18px
+    
+	}
+	.time {
+    font-size: 18px
+    
+    
+	}
+}
+}
+
+/* // Extra large devices (large desktops, 1234px and up) */
+@media (min-width: 1267px) 
+{ 
+.headerBox .bunnerBox .icon
+	{
+		font-size: 38px;
+	}
+		.location {
+             font-size: 20px;
+    
+	}
+	.time {
+        
+        font-size: 20px;
+	}
+	.toll-free-number 
+	{
+		 border-left: 1px solid #ccc;
+	}
+	.headerBox .bunnerBox .address, .headerBox .bunnerBox .date
+	{
+		
+		font-size: 20px;
+		
+	}
+}
+
+/*NavBar */
+.creamBackground {
+      background-color: #F4EEC3;
+}
+.navig {
+   
+   
+	
+
+
+}
+.navbar-nav > li{
+	height: 50px;
+  margin-left:22px;
+  margin-right:36px;
+  padding-top: 24px !important;
+  padding-bottom: 20px !important;
+  
+}
+#myNavbar {
+    margin: 0;
+    padding: 0;
+}
+.navbar ul
+{
+	margin-left: 52px;
+}
+
+.mainmenu ul > li > a 
+{
+    text-transform: uppercase;
+     color: #1E1D94 !important;
+	 font-weight: bold  !important;
+	 font-size: 14px !important;
+    
+	line-height: 13px !important;
+	border-top: 4px solid transparent;
+	position: relative;
+    display: block;
+    
+	
+	float: left !important;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0;
+	text-align: right;
+	white-space: nowrap;
+	font-family: "Open Sans";
+	       
+   
+}
+
+.btn
+{
+	background-color:;
+}
+
+
+
+#main {
+    padding-top:70px;
+}
+
+.navbar {
+  border-radius: 0;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.affix {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+/* fixed to top styles */
+.affix.navbar {
+  
+}
+.affix.navbar .nav-item>a, 
+.affix.navbar .navbar-brand {
+    
+}
+
+
+/* /* navbar collapsing */ */
+/* @media(max-width:34em) { */
+    /* .navbar .navbar-nav>.nav-item { */
+        /* float: none; */
+        /* margin-left: .1rem; */
+    /* } */
+    /* .navbar .navbar-nav { */
+        /* float:none !important; */
+    /* } */
+    /* .navbar .collapse.in, .navbar .collapsing  { */
+        /* clear:both; */
+    /* } */
+/* } */
+
+
+/* junk */
+
+.float_center {
+  float: right;
+
+  position: relative;
+  left: -50%; /* or right 50% */
+  text-align: left;
+}
+.float_center > .child {
+  position: relative;
+  left: 50%;
+}
+.navbar {
+@include nav-justified;
+}

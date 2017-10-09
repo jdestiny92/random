@@ -1,0 +1,60 @@
+
+.BgPicture {
+    background-image: url(http://www.ejgeneralcontractors.com/wp-content/uploads/2016/08/img_main_page.jpg?id=2764) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+	height: auto;
+	
+}
+
+
+
+
+img-overlay {
+    position: relative;
+    max-width: 500px;
+}
+
+.about-overlay {
+        background-color: rgba(244, 238, 195, 0.77) !important;
+    width: 92%;
+	    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    padding-top: 80px !important;
+    padding-bottom: 50px !important;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+
+.spacingThings
+{
+margin-top: 50px !important;
+margin-bottom: 50px !important;
+margin-left: 30px !important;
+padding-top: 80px !important;
+
+min-width: 100%;
+/* width: 45%; */
+height: 50%px ;
+background-color: rgba(244,238,195,0.8) !important;
+
+
+
+}
+.relatively {
+    
+	
+    
+}
+.relatively2
+{
+	padding-left: 10px;
+}
+
+.titleAlign
+{
+	padding-left:20px;
+}
+
