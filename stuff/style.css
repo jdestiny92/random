@@ -1,0 +1,121 @@
+ 
+ 
+ .subFooter
+ {      position: relative;
+	  background-color:  #A19B8F;
+	  padding-top: 20px !important;
+	 
+	  
+	
+  	
+	
+ }
+ .custom
+ {
+	padding-top: 100px;
+    border-style: solid;
+border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+}	
+ 
+ .footerCol
+ {
+	 
+	
+ }
+ .footerCol2
+ {
+	 
+	
+	
+	 
+	
+	 
+	
+	 
+	 
+
+ }
+ 
+ 
+.no-gutter > [class*='col-'] {
+    
+}
+.nopadding
+{      width: auto;
+	  padding-right:0;
+    padding-left:10px;   
+	
+}
+
+.navbar-nav > li{
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.footerTitle
+{    font-family: 'ABeeZee', sans-serif;
+	font-size: 22px;
+    font-weight: 600;
+    padding: 0px 0px 14px 0px;
+    line-height: 1.2em;
+    color: #09098e;
+    text-transform: uppercase;
+}
+
+.footerTxt
+{
+	display: inline-block;
+	font-family: "Open Sans";
+	font-size: 14px;
+	padding:0px;
+	margin:0 px;
+	color:#FFFFFF;
+	
+	
+}
+.emailDiv{
+	display: inline-block;
+}
+.footerIcon
+{ 
+
+    
+	display: inline-block;
+	padding: 1px;
+	margin: 0px;
+	
+	font-size: 33px;
+	font-family: "Open Sans";
+	color:  #09098e;
+	
+	
+	
+}
+.innerDiv
+{ 
+	
+	
+}
+.bgColour
+{
+	background-color:  #A19B8F;
+}
+.footerTxtE
+{
+	width: 100%;
+	border-style: solid;color: blue;
+	
+}
+
+.centeringDiv
+{
+	margin-left: auto;
+    margin-right: auto;
+	display: block;
+}
+
